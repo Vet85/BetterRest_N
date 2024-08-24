@@ -11,6 +11,7 @@
 		7E97EF792C74B5F2008441B2 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E97EF782C74B5F2008441B2 /* ContentView.swift */; };
 		7E97EF7B2C74B5F3008441B2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7E97EF7A2C74B5F3008441B2 /* Assets.xcassets */; };
 		7E97EF7E2C74B5F3008441B2 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7E97EF7D2C74B5F3008441B2 /* Preview Assets.xcassets */; };
+		7E97EF852C760791008441B2 /* SleepCalculator.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = 7E97EF842C760791008441B2 /* SleepCalculator.mlmodel */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		7E97EF782C74B5F2008441B2 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		7E97EF7A2C74B5F3008441B2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7E97EF7D2C74B5F3008441B2 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		7E97EF842C760791008441B2 /* SleepCalculator.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; path = SleepCalculator.mlmodel; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				7E97EF762C74B5F2008441B2 /* BetterRest_NApp.swift */,
 				7E97EF782C74B5F2008441B2 /* ContentView.swift */,
+				7E97EF842C760791008441B2 /* SleepCalculator.mlmodel */,
 				7E97EF7A2C74B5F3008441B2 /* Assets.xcassets */,
 				7E97EF7C2C74B5F3008441B2 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7E97EF852C760791008441B2 /* SleepCalculator.mlmodel in Sources */,
 				7E97EF792C74B5F2008441B2 /* ContentView.swift in Sources */,
 				7E97EF772C74B5F2008441B2 /* BetterRest_NApp.swift in Sources */,
 			);
